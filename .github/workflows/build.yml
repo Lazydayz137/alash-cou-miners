@@ -22,4 +22,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/akash-cpu-miners:latest
+          tags: ghcr.io/lazydayz137/akash-cpu-miners:latest
